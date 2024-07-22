@@ -51,7 +51,7 @@ PRESUMED_CI_PROJECT_PATH=$(pwd)
 
 # Boost archive.
 #------------------------------------------------------------------------------
-BOOST_URL="http://downloads.sourceforge.net/project/boost/boost/1.78.0/boost_1_78_0.tar.bz2"
+BOOST_URL="https://archives.boost.io/release/1.78.0/source/boost_1_78_0.tar.bz2"
 BOOST_ARCHIVE="boost_1_78_0.tar.bz2"
 
 
